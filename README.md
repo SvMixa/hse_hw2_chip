@@ -5,6 +5,7 @@ https://colab.research.google.com/drive/1xtBcSZqay1D-3wfnPoW7gk3X-qs1hP9u?usp=sh
 
 ## Данные 
 Я выбрал клеточную линию MCF-7 и гистоновую метку H3K4me3.
+
 Реплика 1 - ENCFF211APE
 
 Реплика 2 - ENCFF923ABZ
